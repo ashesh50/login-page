@@ -1,0 +1,19 @@
+body{
+    background: hwb(224 31% 6%);
+    border-radius: 100px;
+}
+
+.container{
+    padding: 150px;
+    
+}
+.card{
+    border-radius: 15px;
+}
+.custom-btn1{
+    background-color: #e77350;
+}
+
+.custom-btn{
+    background-color: #8e5fc4;
+}
